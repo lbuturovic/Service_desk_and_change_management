@@ -1,0 +1,44 @@
+{
+    "data":[
+       {
+          "id":1,
+          "title":"Article about Request 1",
+          "description": [
+             {
+                "d": "3.2.2022."
+             }
+          ],
+          "tags":"No tags"
+       },
+       {
+          "id":2,
+          "title":"Issue Article 3",
+          "description": [
+            {
+               "d": "3.2.2022."
+            }
+          ],
+          "tags":"No tags"
+       },
+       {
+           "id":3,
+           "title":"Article - How to solve Problem 2",
+           "description": [
+            {
+               "d": "3.2.2022."
+            }
+           ],
+           "tags": "No tags"
+       },
+       {
+           "id":4,
+           "title":"Solution for Request 4",
+           "description": [
+            {
+               "d": "3.2.2022."
+            }
+           ],
+           "tags": "No tags"
+     }
+    ]
+  }

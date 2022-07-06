@@ -1,0 +1,73 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+			"name": "Change1",
+			"description": "Opis promjene",
+			"priority": "STANDARD",
+			"category": "ADD",
+			"reporter": "Vildana",
+			"approver": "Vedad",
+            "closer": "Lejla",
+            "time-created": "2022-09-13",
+            "time-updated": "2022-09-14",
+            "status":"APPROVED",
+            "reports": [
+                {
+                    "id": "1000",
+                    "productCode": "f230fh0g3",
+                    "description": "Promjena napravljena",
+                    "employee": "Vildana",
+                    "start": "2022-09-13",
+                    "end": "2022-09-13",
+                    "status": "PENDING"
+                },
+                {
+                    "id": "1000",
+                    "productCode": "f230fh0g3",
+                    "description": "Promjena odobrena",
+                    "employee": "Lejla",
+                    "start": "2022-09-14",
+                    "end": "2022-09-14",
+                    "status": "APPROVED"
+                }
+            ]
+		},
+        {
+			"id": "1001",
+			"code": "f230fh0g3",
+			"name": "Change2",
+			"description": "Opis promjene",
+			"priority": "STANDARD",
+			"category": "ADD",
+			"reporter": "Vildana",
+			"approver": "Vedad",
+            "closer": "Lejla",
+            "time-created": "2022-09-13",
+            "time-updated": "2022-09-14",
+            "status":"APPROVED",
+            "reports": [
+                {
+                    "id": "1000",
+                    "productCode": "f230fh0g3",
+                    "description": "Promjena napravljena",
+                    "employee": "Vildana",
+                    "start": "2022-09-13",
+                    "end": "2022-09-13",
+                    "status": "PENDING"
+                },
+                {
+                    "id": "1000",
+                    "productCode": "f230fh0g3",
+                    "description": "Promjena odobrena",
+                    "employee": "Lejla",
+                    "start": "2022-09-14",
+                    "end": "2022-09-14",
+                    "status": "APPROVED"
+                }
+            ]
+		}
+
+	]
+}
